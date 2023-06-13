@@ -1,0 +1,10 @@
+* sel
+
+Programmatic modification and evaluation of software
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/GrammaTech/sel.git   |
+| commit  | b6a311b  |
+| systems | sel |
+|---------+-------------------------------------------|
+
