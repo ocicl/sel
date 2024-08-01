@@ -5,6 +5,6 @@ Programmatic modification and evaluation of software
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/GrammaTech/sel.git |
-| commit  | a9124d9b                                  |
+| commit  | 05ad4dec                                  |
 | systems | software-evolution-library                |
 |---------+-------------------------------------------|
